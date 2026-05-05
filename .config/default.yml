@@ -2,8 +2,8 @@ url: https://sekaibiyori.onrender.com
 port: 10000
 
 db:
-  host: localhost
+  host: dpg-d7qfftq8qa3s73c39qn0-a
   port: 5432
-  user: user
-  pass: pass
-  db: db
+  user: misskey_sdhi_user
+  pass: TpMcZ2WCxHPqv4hAtXCVYeG5uPcPAhkz
+  db: misskey_sdhi
